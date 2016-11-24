@@ -6,3 +6,5 @@ Creating a new branch is quick.
 test stash
 no-ff merge
 add some content
+
+haha
