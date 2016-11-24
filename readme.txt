@@ -8,5 +8,3 @@ no-ff merge
 add some content
 
 haha
-
-thetest
